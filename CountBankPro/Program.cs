@@ -1,6 +1,4 @@
-﻿//Criar um construtor para a classe Titular, que inicialize todas suas propriedades
-//Criar um construtor para a classe Conta, que inicialize todas suas propriedades
-//Instanciar uma Conta e exibir suas informações na tela, utilizando construtores
+
 
 
 Titular teste = new Titular("Filipe Bernard", "362.222.233-44", "Rua endereço exemplo 1");
